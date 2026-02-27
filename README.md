@@ -3,7 +3,7 @@
 
 <img alt="Night Coding" class="image" src="ReadImg.png" width='40' align="left"/><h2>Hey there! I'm Eng: Sadak Hassan</h2>
 <style>
-  .image:{
+  .image{
      height: 10vh;
   }
 </style>
