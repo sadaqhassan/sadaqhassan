@@ -1,7 +1,12 @@
 # README
 ![Sadak samo'Banner](ReadImg.png)
 
-<img alt="Night Coding" src="ReadImg.png" width='20' height="20" align="left"/><h2>Hey there! I'm Eng: Sadak Hassan</h2>
+<img alt="Night Coding" class="image" src="ReadImg.png" width='40' align="left"/><h2>Hey there! I'm Eng: Sadak Hassan</h2>
+<style>
+  .image:{
+     height: 10vh;
+  }
+</style>
 
 <!-- ## 👋 &nbsp;Hey there! I'm eng_Sadak -->
 
