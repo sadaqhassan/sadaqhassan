@@ -1,5 +1,5 @@
 # README
-![Sadak samo'Banner](ReadImg.png)
+![Sadak samo'Banner](Samobanner.jpeg.png)
 
 <img alt="Night Coding" class="image" src="ReadImg.png" width='40' align="left"/><h2>Hey there! I'm Eng: Sadak Hassan</h2>
 
