@@ -1,67 +1,55 @@
-# README
-![Sadak samo'Banner](RedImg.png)
+## Sadak hassan 
 
-<img alt="Night Coding" class="image" src="ReadImg.png" width='40' align="left"/><h2>Hey there! I'm Eng: Sadak Hassan</h2>
+### Software Engineer
 
-<!-- ## 👋 &nbsp;Hey there! I'm eng_Sadak -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Maxamed459\&style=flat\&color=blue)
+[![committers.top badge](https://user-badge.committers.top/somalia_private/Maxamed459.svg)](https://user-badge.committers.top/somalia_private/Maxamed459) -->
 
-### 👨🏻‍💻 About Me
+## About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of somali international (SIU).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sadak@siu.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.samo.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+I’m a Software Engineer focused on building scalable web and mobile applications, along with robust backend systems. I work across the full stack, combining modern JavaScript/TypeScript frameworks with Python-based backends and cross-platform mobile development.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/sadakHassan/sadakHassan/master/assets/Night-Coding.gif" align="right"/>
+I specialize in building performant APIs, responsive frontends, and mobile apps, with production-ready deployments using containerized environments and cloud platforms. I also focus on system design, database architecture, and real-world scalability.
 
-### 🛠 &nbsp;Tech Stack
+## Tech Stack
+### Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+### Backend
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+### Infrastructure
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+### Deployment
+![AWS](https://skillicons.dev/icons?i=aws)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Nginx](https://skillicons.dev/icons?i=nginx)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+## Contact
+[![Website](https://img.shields.io/badge/Website-sadak-hassan.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](http://sadak-hassan.vercel.app/)
+[![LinkedIn](in/sadak-hassan-ahmed-9a3669362)](https://www.linkedin.com/in/sadak-hassan-ahmed-9a3669362)
+[![GitHub](https://img.shields.io/badge/GitHub-sadak-hassan?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sadaqhassan)
 
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+---
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/sadaqhassan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadakHassan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadakHassan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.Devsadak.com"><img src="https://img.shields.io/badge/-sadaqhassan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sadaqhassan"><img src="https://img.shields.io/badge/-sadakhasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sadakhassan23@gmail.com"><img src="https://img.shields.io/badge/-sadaqhassanr99@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sadaqhassaan"><img src="https://img.shields.io/badge/-@SadakHassan__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sadaqhassan"><img src="https://img.shields.io/badge/-@sadakHassan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/sadaqhassan"><img src="https://img.shields.io/badge/-@sadakHassan-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/sadaqhassan"><img src="https://img.shields.io/badge/-@sadakHassan-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
-
------
-Credits: [Sadak hassan ](https://github.com/sadaqhassan)
-
-Last Edited on: 27/2/2026
+"Build systems that scale. Keep it simple. Ship with intent."
