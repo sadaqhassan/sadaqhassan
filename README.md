@@ -45,7 +45,7 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 
 ## Contact
 [![Website](https://img.shields.io/badge/Website-sadak--hassan.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](http://sadak-hassan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadak-hassan-ahmed-9a3669362?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadak-hassan-ahmed-9a3669362/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadak-hassan-ahmed-9a3669362/?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadak-hassan-ahmed-9a3669362/)
 [![GitHub](https://img.shields.io/badge/GitHub-sadak-hassan?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sadaqhassan)
 
 ---
