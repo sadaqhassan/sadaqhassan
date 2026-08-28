@@ -2,8 +2,6 @@
 
 ### Software Engineer
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Maxamed459\&style=flat\&color=blue)
-[![committers.top badge](https://user-badge.committers.top/somalia_private/Maxamed459.svg)](https://user-badge.committers.top/somalia_private/Maxamed459) -->
 
 ## About Me
 
@@ -46,7 +44,7 @@ I specialize in building performant APIs, responsive frontends, and mobile apps,
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 
 ## Contact
-[![Website](https://img.shields.io/badge/Website-sadak-hassan.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](http://sadak-hassan.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-sadak-hassan-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](http://sadak-hassan.vercel.app/)
 [![LinkedIn](in/sadak-hassan-ahmed-9a3669362)](https://www.linkedin.com/in/sadak-hassan-ahmed-9a3669362)
 [![GitHub](https://img.shields.io/badge/GitHub-sadak-hassan?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sadaqhassan)
 
