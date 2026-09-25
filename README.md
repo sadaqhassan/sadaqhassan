@@ -1,7 +1,13 @@
 ## Sadak hassan 
+<!-- Hi There, I'm Eng Sadak_Hassan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1115,50:1c2128,100:30363d&height=220&section=header&text=Hey,+I'm+Eng+Sadak+Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+
+<a href="https://github.com/itstonywhite">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=800&lines=Innovation+Enthusiast;Entrepreneur;AI+Engineer;ML+Engineer;Software+Engineer;Full-Stack+Developer;Front-End+Developer;Back-End+Developer" alt="Typing Roles" />
+</a>
 
 ### Software Engineer
-
 
 ## About Me
 
