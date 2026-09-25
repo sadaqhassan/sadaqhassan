@@ -11,7 +11,7 @@
 
 ## About Me
 
-I’m a Software Engineer focused on building scalable web and mobile applications, along with robust backend systems. I work across the full stack, combining modern JavaScript/TypeScript frameworks with Python-based backends and cross-platform mobile development.
+I’m a Software Engineer focused on building scalable web and mobile applications, along with robust backend systems. I work across the full stack, combining modern JavaScript/TypeScript frameworks NestJs for backends and cross-platform mobile development using React-native and flutter.
 
 I specialize in building performant APIs, responsive frontends, and mobile apps, with production-ready deployments using containerized environments and cloud platforms. I also focus on system design, database architecture, and real-world scalability.
 
